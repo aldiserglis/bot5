@@ -1,0 +1,27 @@
+{
+  "name": "bot5",
+  "version": "1.0.0",
+  "description": "A sample bot for getting started with Bot Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiserglis/bo5.git"
+  },
+  "keywords": [
+    "botframework"
+  ],
+  "author": "Fuse Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldiserglis/bot5/issues"
+  },
+  "homepage": "https://github.com/aldiserglis/bot5#readme",
+
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
